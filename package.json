@@ -2,7 +2,10 @@
   "name": "@mizdra/oxfmt-config",
   "version": "0.0.0",
   "description": "Oxfmt config for @mizdra",
-  "keywords": [],
+  "keywords": [
+    "oxfmt",
+    "oxfmt-config"
+  ],
   "homepage": "https://github.com/mizdra/oxfmt-config#readme",
   "bugs": {
     "url": "https://github.com/mizdra/oxfmt-config/issues"
