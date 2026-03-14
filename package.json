@@ -17,7 +17,7 @@
     "url": "git+ssh://git@github.com/mizdra/oxfmt-config.git"
   },
   "files": [
-    ".oxfmtrc.json"
+    "src"
   ],
   "type": "module",
   "exports": {
