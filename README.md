@@ -10,6 +10,7 @@ npm i -D @mizdra/oxlint-config
 
 ## Usage
 
-```bash
-oxfmt -c ./node_modules/@mizdra/oxlint-config/.oxfmtrc.json --check
+```ts
+// oxfmt.config.ts
+export { default } from '@mizdra/oxfmt-config';
 ```
