@@ -36,9 +36,9 @@
     "test": "oxfmt --check"
   },
   "devDependencies": {
-    "oxfmt": "^0.40.0"
+    "oxfmt": "^0.41.0"
   },
   "peerDependencies": {
-    "oxfmt": ">=0.40.0"
+    "oxfmt": ">=0.41.0"
   }
 }
