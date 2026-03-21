@@ -5,7 +5,7 @@ Oxfmt config for @mizdra
 ## Installation
 
 ```bash
-npm i -D @mizdra/oxlint-config
+npm i -D @mizdra/oxfmt-config
 ```
 
 ## Usage
